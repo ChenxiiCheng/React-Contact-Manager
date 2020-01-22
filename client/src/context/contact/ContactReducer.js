@@ -30,7 +30,7 @@ export default (state, action) => {
       return {
         ...state,
         contacts: state.contacts.map(contact =>
-          contact.id === payload.id ? payload : contact
+          contact._id === payload._id ? payload : contact
         ),
         loading: false
       };
