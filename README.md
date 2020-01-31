@@ -2,7 +2,7 @@
 
 > 一个基于 React 全家桶制作 Contact Manager 项目
 
-[ Contact Manager Online ](https://contact.chenxii.xyz)
+[ Contact Manager Online ](https://contact.chenxii.xyz) | Deployed in Heroku | Access maybe slow...
 
 #### Preview | 预览
 
