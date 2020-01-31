@@ -2,7 +2,7 @@
 
 > 一个基于 React 全家桶制作 Contact Manager 项目
 
-[ GitHub Finder ](https://github.chenxii.xyz)
+[ Contact Manager Online ](https://contact.chenxii.xyz)
 
 #### Preview | 预览
 
